@@ -68,7 +68,7 @@ ol {
 
 .inicio {
     background-attachment: fixed;
-    background-image: url(multimedia/Imagenes/box-regalo.jpeg);
+    background-image: url(Multimedia/Imagenes/box-regalo.jpeg);
     border: 10px solid rgb(228, 205, 205);
     color: brown;
     text-align: center;
@@ -187,7 +187,7 @@ h1 {
     flex-grow: inherit;
     justify-content: center;
     background-attachment: fixed;
-    background-image: url(multimedia/Imagenes/nosotras-ceibo.png);
+    background-image: url(Multimedia/Imagenes/nosotras-ceibo.png);
     border: 10px solid rgb(228, 205, 205);
     color: black;
     text-align: center;
@@ -297,6 +297,3 @@ textarea {
 
 /*Fin de contacto.html*/
 
-/* Media Queries */
-
-/* Desktop Styles */
